@@ -1,0 +1,2 @@
+GITHUB_TOKEN = ""
+HIBP_KEY = ""
